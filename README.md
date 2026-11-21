@@ -1,6 +1,6 @@
 # Project Deliverable 1: Data Collection, Cleaning, and Exploration
 
-**Student:** Rohail Shaikh  
+**Student:** Rohail Shaikh, Phaneendra Vanapamula, Abhilash Marthala
 **Course:** Advanced Big Data and Data Mining (MSCS-634-M50)
 
 ## Dataset and purpose
